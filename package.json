@@ -3,22 +3,26 @@
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
+    "dev": "APP_Variant=development npx expo start",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "build web": "expo build:web"
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.2.1",
     "@expo/vector-icons": "^14.0.2",
     "dom-to-image": "^2.6.0",
     "expo": "~51.0.24",
+    "expo-dev-client": "~4.0.21",
     "expo-image-picker": "~15.0.7",
     "expo-media-library": "~16.0.4",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.3",
+    "react-native-dotenv": "^3.4.11",
     "react-native-gesture-handler": "~2.16.1",
     "react-native-reanimated": "~3.10.1",
     "react-native-view-shot": "3.8.0",
