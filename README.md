@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/efc2070c-432c-4fc0-bf2a-4f9525d06316" alt="Logo">
+  <img src="https://github.com/user-attachments/assets/55f2e8c2-da7c-4246-954d-ffd20fa2d7d2" alt="Logo">
 </div>
 
 # 🔰 StickerSmash
 
 - A mobile-app in which allows you to choose a picture and add emojis to it. Additionally the picture can also be saved on the device.
 
-- Web build deployed on `vercel` under free tier [Link](https://sticker-smash-one.vercel.app/).
+- Web build deployed on `vercel` under free tier [Link](https://sticker-smash-one.vercel.app).
 
 ## 📚 Tech Stack
 
@@ -72,3 +72,4 @@ This app was made to pracice react native by following documentation, though con
 
 ## 📷 Screenshots
 
+![image](https://github.com/user-attachments/assets/a20d101b-114d-415c-a220-cda5655ec789)
