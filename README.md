@@ -6,7 +6,7 @@
 
 - A mobile-app in which allows you to choose a picture and add emojis to it. Additionally the picture can also be saved on the device.
 
-- Web build deployed on `vercel` under free tier [Link]().
+- Web build deployed on `vercel` under free tier [Link](https://sticker-smash-one.vercel.app/).
 
 ## 📚 Tech Stack
 
